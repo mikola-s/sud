@@ -53,5 +53,5 @@ def unicursal(map,start):
 		start=new_loc
 		
 	print("Конец пути. Пока!")
-
+# str line
 unicursal(POLE,s_loc)
