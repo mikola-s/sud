@@ -55,4 +55,4 @@ def unicursal(map,start):
 	print("Конец пути. Пока!")
 
 unicursal(POLE,s_loc)
-Тест
+#Тест
